@@ -1,4 +1,4 @@
-user_Id,user_Id,rating,numOfRatings
+user_Id,movie_Id,rating,numOfRatings
 1,Toy Story (1995),2.333333333,9
 2,GoldenEye (1995),2.6,5
 3,Four Rooms (1995),2.908256881,109
