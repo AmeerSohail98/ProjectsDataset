@@ -1,0 +1,1001 @@
+year,region,sales
+2022,Asia,103024
+2015,Europe,153801
+2010,South America,111934
+2013,Africa,143930
+2021,Africa,187122
+2013,North America,166405
+2017,North America,33907
+2019,Asia,76934
+2013,Africa,42287
+2015,South America,37410
+2012,South America,97298
+2014,North America,156605
+2017,North America,154927
+2016,Europe,34260
+2018,Africa,17723
+2018,Africa,162817
+2022,North America,191637
+2020,North America,166241
+2011,North America,8299
+2016,Europe,132956
+2017,Europe,40892
+2017,Europe,5081
+2018,Africa,1851
+2011,Europe,85217
+2015,Africa,3597
+2019,North America,116564
+2023,Africa,45761
+2018,South America,59887
+2019,Asia,53156
+2014,North America,162957
+2013,South America,16956
+2010,Asia,57314
+2013,South America,163064
+2015,Asia,178837
+2010,Asia,133584
+2012,Europe,123023
+2013,South America,172553
+2018,South America,90953
+2011,North America,27433
+2013,Africa,56497
+2023,South America,23615
+2013,South America,39212
+2013,North America,157678
+2017,North America,58185
+2010,Europe,35162
+2011,Africa,186087
+2019,Africa,143908
+2019,Europe,164032
+2010,North America,85029
+2020,North America,180833
+2014,North America,175538
+2017,South America,153349
+2013,Africa,67799
+2021,Africa,168964
+2012,Asia,155776
+2017,Asia,94571
+2022,South America,38330
+2012,South America,60029
+2010,Africa,20718
+2010,Asia,48188
+2014,Europe,116989
+2015,North America,135775
+2015,Africa,65795
+2016,Europe,167810
+2018,South America,193960
+2014,North America,139021
+2011,South America,146415
+2014,Asia,115000
+2019,Europe,52851
+2020,North America,158676
+2020,North America,179562
+2018,South America,106782
+2011,Africa,10733
+2011,Europe,61177
+2017,North America,189154
+2019,North America,74294
+2019,Asia,14393
+2013,Europe,197718
+2016,Europe,36436
+2017,North America,67590
+2021,Europe,76523
+2012,Europe,66664
+2021,North America,150341
+2010,North America,77076
+2013,South America,84180
+2015,South America,21351
+2022,South America,93787
+2019,South America,159653
+2020,Europe,183526
+2014,Asia,102376
+2021,North America,52613
+2014,North America,182851
+2016,Africa,2010
+2014,Asia,34979
+2014,Asia,79869
+2013,North America,46119
+2022,Asia,56006
+2014,Africa,115168
+2014,Europe,191053
+2018,South America,109239
+2014,Africa,15479
+2013,South America,159697
+2020,North America,182997
+2017,Europe,25081
+2023,Africa,43933
+2015,Asia,16766
+2015,Europe,80309
+2010,Africa,94359
+2011,Europe,92842
+2015,North America,58611
+2019,Asia,199537
+2013,South America,196058
+2010,South America,45982
+2015,South America,1947
+2010,Africa,160791
+2011,Europe,129906
+2012,Asia,176601
+2014,Asia,15590
+2012,Africa,176478
+2010,Asia,53652
+2023,Asia,154800
+2013,Europe,148948
+2012,Europe,111309
+2020,Europe,177146
+2023,Africa,148961
+2010,Africa,182477
+2017,Africa,195148
+2015,Asia,34130
+2019,South America,3205
+2010,Asia,174211
+2020,Europe,24185
+2012,South America,95650
+2021,North America,181619
+2020,South America,135449
+2017,Europe,80176
+2021,Europe,136512
+2012,Europe,59883
+2019,Europe,102810
+2012,North America,148087
+2013,South America,160673
+2021,North America,181355
+2013,Asia,25438
+2012,South America,188364
+2013,Asia,7076
+2014,Asia,174991
+2011,Asia,145894
+2012,Europe,125885
+2021,South America,185477
+2019,Africa,20381
+2020,South America,177195
+2011,Europe,56499
+2014,South America,188767
+2020,Europe,153655
+2016,South America,136770
+2021,South America,188617
+2018,Asia,22515
+2021,North America,41439
+2012,South America,60525
+2013,Africa,18310
+2010,North America,94370
+2010,Africa,166444
+2016,South America,42504
+2010,Europe,54029
+2016,South America,172179
+2013,Asia,140901
+2020,Europe,82212
+2013,Africa,46613
+2018,South America,72965
+2022,South America,83170
+2018,Europe,75907
+2023,South America,29391
+2018,North America,182019
+2023,Africa,194565
+2012,South America,9318
+2013,South America,71731
+2012,Europe,191561
+2021,Asia,4278
+2023,Africa,12531
+2010,North America,70066
+2018,North America,140097
+2018,Europe,141978
+2013,North America,8208
+2018,Asia,138502
+2020,South America,21043
+2012,Africa,30987
+2018,South America,136636
+2014,Europe,85932
+2013,South America,174631
+2022,Asia,5868
+2023,North America,161433
+2010,Africa,121511
+2014,Asia,16165
+2013,Europe,1603
+2023,Africa,98903
+2021,South America,24763
+2022,Europe,189776
+2016,South America,105538
+2023,Asia,111106
+2019,Asia,39834
+2023,Europe,142535
+2021,North America,21318
+2018,Europe,109305
+2010,North America,125615
+2018,Europe,74528
+2023,Europe,16347
+2015,Africa,163595
+2019,North America,13079
+2010,North America,134168
+2022,Asia,128351
+2019,South America,85935
+2016,Asia,155229
+2015,North America,28203
+2023,Africa,53859
+2013,North America,25263
+2011,South America,101670
+2018,South America,81840
+2010,Europe,52493
+2014,Africa,69613
+2021,Asia,66591
+2021,Africa,96662
+2019,Europe,199694
+2016,North America,199920
+2015,South America,92329
+2023,North America,170282
+2017,North America,55334
+2018,Europe,191480
+2018,Asia,153765
+2019,North America,128170
+2012,South America,70002
+2018,South America,168956
+2016,Asia,170742
+2021,Asia,135776
+2016,Europe,197660
+2023,Africa,86262
+2019,South America,76378
+2011,North America,83670
+2016,Europe,192439
+2022,Asia,1819
+2018,North America,139272
+2023,Africa,157055
+2018,Asia,88801
+2013,Africa,59203
+2012,Africa,71406
+2013,South America,191584
+2020,South America,96297
+2022,Africa,198707
+2016,South America,3556
+2013,Asia,72366
+2016,Africa,127652
+2023,Africa,112500
+2015,Europe,153483
+2017,Europe,156710
+2021,Europe,195366
+2010,Europe,66978
+2021,North America,87604
+2018,Europe,193018
+2014,Asia,100329
+2020,North America,146108
+2016,Asia,149173
+2021,Europe,10818
+2015,Africa,178264
+2023,North America,178301
+2022,Africa,129590
+2018,Asia,129269
+2012,Asia,104400
+2021,North America,150353
+2013,Asia,187769
+2019,North America,130727
+2017,Asia,162179
+2015,Africa,76501
+2013,South America,120309
+2014,Europe,192920
+2015,Europe,75296
+2023,South America,74786
+2013,South America,94201
+2013,North America,161982
+2017,Asia,16199
+2019,Africa,65473
+2019,Europe,40132
+2019,South America,98485
+2017,South America,91503
+2013,South America,105721
+2020,Asia,73388
+2012,Africa,121363
+2022,South America,28055
+2013,Africa,45766
+2019,Europe,187493
+2020,North America,149828
+2021,North America,152033
+2023,Europe,140080
+2017,North America,86690
+2017,South America,74499
+2023,Asia,175086
+2015,North America,34671
+2011,Europe,102045
+2022,Asia,13151
+2012,Europe,14816
+2012,South America,76802
+2018,Europe,120499
+2011,South America,49933
+2015,North America,21913
+2018,Asia,16892
+2014,Africa,54725
+2010,Asia,20319
+2021,Africa,73120
+2012,North America,161183
+2015,Europe,124031
+2015,South America,52897
+2010,South America,121457
+2018,South America,3688
+2023,North America,98894
+2011,North America,151578
+2011,Africa,65451
+2010,Asia,64228
+2013,Asia,135693
+2018,Europe,56224
+2021,Africa,133990
+2018,North America,13933
+2014,North America,111651
+2014,South America,140216
+2010,Africa,55746
+2019,Africa,97031
+2013,North America,133038
+2017,Africa,195905
+2022,South America,135347
+2013,South America,174713
+2012,North America,22151
+2023,North America,152642
+2011,Africa,30735
+2011,Africa,165597
+2012,Asia,117914
+2011,Africa,182834
+2023,Africa,48398
+2014,Europe,40492
+2023,North America,77155
+2012,Africa,46607
+2015,Europe,70759
+2015,Africa,78007
+2022,North America,50165
+2022,Asia,59531
+2015,South America,42446
+2023,North America,86387
+2012,North America,1359
+2021,Europe,21811
+2015,Europe,187352
+2017,Europe,80670
+2017,Asia,31116
+2021,Europe,38970
+2016,North America,93363
+2011,Europe,85659
+2016,Africa,121762
+2017,Africa,99384
+2012,South America,99844
+2022,Africa,114033
+2021,South America,129869
+2013,Africa,111737
+2011,Asia,195288
+2019,South America,156884
+2023,Africa,158337
+2015,South America,135494
+2019,South America,33869
+2019,Africa,39587
+2012,North America,59747
+2010,Europe,58310
+2021,South America,22497
+2019,South America,30755
+2022,South America,43170
+2021,Europe,37114
+2011,South America,73204
+2019,South America,3945
+2020,Africa,145667
+2010,North America,11179
+2016,Asia,76709
+2010,Asia,165624
+2020,Europe,183908
+2014,Asia,168686
+2018,North America,24040
+2014,Asia,154607
+2013,North America,130689
+2013,North America,35619
+2018,Africa,112103
+2018,Asia,171404
+2021,South America,168637
+2023,Europe,196185
+2021,South America,151728
+2017,Asia,32343
+2010,Asia,184462
+2013,South America,154668
+2018,Africa,62531
+2017,Asia,42741
+2017,Africa,98933
+2023,Europe,17712
+2020,Asia,76102
+2011,South America,157812
+2018,Africa,93392
+2014,Europe,8696
+2017,North America,199917
+2010,Europe,184848
+2021,Africa,180101
+2022,Asia,156926
+2014,Asia,62797
+2019,North America,140515
+2010,Africa,4962
+2020,Asia,10124
+2016,Asia,25299
+2022,Africa,111779
+2014,Europe,110602
+2012,South America,171950
+2014,Europe,154990
+2016,Africa,165184
+2013,Europe,59956
+2020,Asia,64071
+2013,Africa,109080
+2017,Asia,119565
+2018,Asia,102834
+2023,Asia,73305
+2023,Europe,159572
+2015,South America,73708
+2010,North America,90695
+2018,South America,190372
+2015,North America,166503
+2021,Africa,155122
+2014,South America,5893
+2017,North America,63305
+2022,Asia,166104
+2023,Africa,2549
+2020,South America,106900
+2020,Europe,48155
+2014,Africa,157779
+2011,Asia,44762
+2021,Asia,70541
+2013,Asia,109046
+2013,North America,18060
+2019,South America,114778
+2012,Africa,79980
+2015,South America,107482
+2012,South America,99607
+2013,North America,109416
+2015,North America,78617
+2020,Asia,53133
+2021,South America,13747
+2017,North America,17878
+2022,Asia,30968
+2022,Africa,117490
+2012,North America,37357
+2023,North America,90007
+2017,Africa,158251
+2011,Africa,41102
+2016,North America,106456
+2020,Africa,7238
+2015,Africa,178951
+2010,Asia,195986
+2021,North America,172285
+2010,Africa,38857
+2020,Asia,76884
+2022,North America,157703
+2013,North America,17979
+2020,North America,32810
+2011,Africa,77959
+2020,Africa,197466
+2019,South America,151291
+2022,Asia,163365
+2023,South America,132681
+2019,Asia,78740
+2016,Europe,77020
+2016,South America,13012
+2017,North America,116126
+2018,Europe,78534
+2023,Europe,146895
+2018,Europe,72884
+2017,Asia,178040
+2010,Africa,164920
+2018,Africa,134630
+2016,Europe,10350
+2018,Africa,162220
+2019,North America,87829
+2018,Africa,89570
+2013,Asia,43654
+2016,Europe,46644
+2011,South America,76643
+2017,North America,5789
+2014,South America,160137
+2019,Europe,99906
+2012,Europe,118894
+2022,South America,140896
+2010,Europe,20610
+2018,Europe,7382
+2012,Europe,79105
+2023,Africa,191989
+2017,Africa,162727
+2018,Asia,85699
+2014,South America,151078
+2014,North America,120725
+2022,South America,1107
+2011,South America,71469
+2017,Asia,191257
+2016,Africa,169985
+2019,North America,50420
+2014,North America,115228
+2011,Asia,196503
+2015,Europe,42725
+2019,South America,197681
+2017,South America,106032
+2021,North America,71106
+2023,South America,186488
+2011,North America,67911
+2013,Africa,172870
+2015,Africa,135373
+2017,North America,36110
+2013,Asia,84120
+2016,South America,150180
+2016,North America,50670
+2017,Asia,50783
+2019,Africa,91625
+2011,South America,28841
+2019,South America,60005
+2016,Africa,84221
+2010,Europe,174824
+2013,North America,144062
+2018,Asia,151692
+2014,Asia,78466
+2011,Europe,84604
+2014,Asia,79164
+2015,Asia,64729
+2010,South America,143190
+2013,North America,52102
+2020,South America,55836
+2011,Africa,49724
+2014,South America,62758
+2014,Europe,96675
+2014,North America,34421
+2010,Europe,198112
+2010,North America,197975
+2020,North America,26353
+2023,North America,184451
+2018,Asia,131650
+2021,South America,67533
+2021,Asia,162314
+2014,Asia,170798
+2016,South America,14737
+2019,Europe,132053
+2022,North America,47117
+2021,Europe,177134
+2013,Europe,94498
+2013,Africa,22077
+2022,Asia,137195
+2012,North America,80947
+2011,South America,86738
+2020,Europe,94451
+2012,Africa,60805
+2011,Africa,87739
+2021,Europe,170242
+2013,Europe,97619
+2022,Africa,73447
+2014,Asia,21560
+2020,Africa,59531
+2011,Africa,100892
+2011,Africa,98872
+2010,Asia,122226
+2017,Asia,189409
+2018,Asia,133041
+2020,South America,13387
+2014,South America,145281
+2013,South America,182887
+2015,South America,53378
+2016,North America,83483
+2013,North America,52483
+2012,North America,60524
+2019,Europe,119118
+2018,North America,123581
+2022,Europe,27727
+2011,Africa,68825
+2022,North America,168703
+2014,Asia,115662
+2020,South America,8531
+2010,Europe,18942
+2018,Africa,100676
+2023,North America,136150
+2013,South America,172051
+2019,Asia,198517
+2015,Africa,29817
+2015,Asia,106896
+2011,North America,73317
+2017,Europe,75206
+2023,Africa,88492
+2018,North America,142074
+2016,North America,173784
+2014,Europe,6250
+2017,Europe,82947
+2013,North America,116080
+2015,Europe,4819
+2021,Africa,55479
+2022,Europe,39451
+2013,Africa,132287
+2016,North America,129943
+2014,South America,143143
+2017,North America,20614
+2013,North America,175940
+2010,North America,163734
+2015,Africa,95094
+2021,South America,32918
+2021,Europe,28821
+2019,Asia,29932
+2013,Africa,186204
+2017,North America,194908
+2015,North America,156711
+2015,Asia,177402
+2022,Europe,85168
+2018,South America,70751
+2021,North America,85282
+2010,Asia,144049
+2018,North America,106996
+2013,Asia,79493
+2016,Europe,151094
+2019,Asia,23888
+2020,North America,197685
+2013,Africa,189041
+2012,Europe,193430
+2021,Asia,71332
+2017,Africa,99892
+2010,South America,47309
+2013,South America,193157
+2020,Asia,82005
+2010,Europe,128051
+2013,North America,82388
+2016,South America,158673
+2011,Africa,125824
+2022,Africa,132016
+2021,Africa,104072
+2019,South America,124372
+2012,Asia,45752
+2023,South America,169946
+2019,Europe,7515
+2014,Europe,127572
+2019,Asia,174170
+2023,Africa,82265
+2021,South America,36087
+2011,Asia,178433
+2013,North America,120573
+2012,Europe,85118
+2014,North America,65476
+2023,North America,19267
+2019,South America,160852
+2017,Asia,128432
+2014,North America,67395
+2019,North America,13764
+2014,Africa,126671
+2011,Africa,29775
+2012,North America,25675
+2023,South America,56710
+2023,North America,33681
+2017,Europe,72414
+2012,Asia,177521
+2013,South America,182110
+2019,Africa,157468
+2020,Asia,94483
+2017,Europe,61241
+2020,South America,162714
+2016,South America,76546
+2016,South America,10654
+2022,Africa,33698
+2012,Asia,149811
+2020,Europe,40225
+2013,North America,25250
+2016,North America,61364
+2010,North America,44277
+2023,Asia,18352
+2022,South America,34000
+2020,Europe,107258
+2018,Africa,20756
+2010,South America,151754
+2020,Africa,43699
+2021,South America,61247
+2023,North America,162998
+2017,South America,16926
+2016,North America,156314
+2023,North America,1043
+2015,Europe,108073
+2019,Europe,150625
+2016,Africa,30871
+2015,Africa,4244
+2021,Asia,184049
+2012,Asia,165355
+2017,Africa,190833
+2022,Europe,128099
+2011,North America,66268
+2019,Asia,77283
+2012,Europe,88074
+2012,North America,119238
+2022,Asia,187881
+2015,Europe,137486
+2021,Africa,126134
+2016,Europe,170936
+2014,Asia,118598
+2023,North America,176538
+2012,Asia,39742
+2022,South America,64534
+2023,Africa,163787
+2012,South America,141119
+2011,Asia,141069
+2022,Asia,45893
+2010,Europe,144085
+2019,Europe,119106
+2010,South America,58426
+2012,Europe,92722
+2018,Europe,123283
+2013,South America,183785
+2023,Europe,37297
+2020,South America,48578
+2010,North America,5272
+2020,South America,40759
+2021,Europe,178553
+2018,Africa,25830
+2018,Africa,129147
+2011,South America,110377
+2010,Africa,170371
+2015,Africa,27340
+2018,Europe,116619
+2012,North America,142577
+2013,North America,177873
+2022,Europe,9205
+2015,North America,152989
+2021,South America,188718
+2013,North America,79808
+2018,Africa,190194
+2016,Europe,21601
+2014,Asia,67859
+2016,Africa,29261
+2022,Africa,194925
+2013,South America,119952
+2016,Asia,2268
+2012,South America,153335
+2022,Europe,190454
+2022,Asia,142781
+2016,Europe,156648
+2015,North America,22795
+2021,Africa,154185
+2015,North America,151926
+2023,Europe,183022
+2019,South America,190016
+2014,Africa,176606
+2016,Africa,153579
+2023,Asia,67884
+2015,North America,165965
+2021,Europe,188231
+2011,Europe,52099
+2013,Europe,5722
+2023,Europe,158673
+2013,South America,107274
+2020,Europe,173457
+2018,South America,41831
+2019,South America,28025
+2015,Asia,155280
+2023,Asia,8661
+2015,North America,139022
+2016,Europe,49682
+2010,South America,103723
+2019,Asia,47363
+2017,Europe,127908
+2015,Asia,81626
+2011,Asia,195466
+2015,North America,106956
+2016,South America,50898
+2022,South America,171028
+2020,Asia,91452
+2020,Europe,1564
+2021,South America,66227
+2016,North America,103572
+2018,South America,70713
+2017,North America,132071
+2023,Europe,129595
+2015,Asia,67247
+2021,Europe,123463
+2020,Europe,1106
+2013,North America,34522
+2020,Europe,35395
+2012,Asia,30856
+2019,South America,34705
+2021,North America,12474
+2019,North America,38277
+2013,Europe,164725
+2023,Europe,168922
+2012,Europe,93809
+2015,Africa,21534
+2020,Asia,61296
+2014,Europe,188417
+2011,Africa,93321
+2015,North America,75257
+2018,Asia,46553
+2013,Africa,118167
+2015,North America,193016
+2018,South America,178713
+2014,South America,135206
+2020,Asia,123718
+2011,Africa,43070
+2017,Africa,77283
+2018,North America,121997
+2011,South America,111510
+2012,South America,71284
+2011,Europe,112704
+2011,Africa,96613
+2017,Asia,199005
+2015,South America,164000
+2021,Asia,159253
+2010,Asia,68361
+2014,Europe,149158
+2011,South America,24044
+2011,Asia,136805
+2023,South America,170036
+2022,Europe,99985
+2016,North America,175476
+2016,North America,189160
+2010,North America,130174
+2012,Asia,68305
+2013,Asia,188745
+2017,Asia,164443
+2022,South America,62249
+2019,Africa,109938
+2012,South America,13486
+2021,North America,64610
+2014,Africa,130040
+2019,Europe,114351
+2010,Africa,89475
+2022,Europe,188686
+2016,Asia,85075
+2019,North America,196668
+2012,Asia,58322
+2014,South America,71086
+2017,Asia,135054
+2013,Asia,66186
+2010,Africa,30386
+2022,Europe,11024
+2015,North America,33808
+2014,Asia,99203
+2023,Asia,87110
+2010,Europe,57484
+2023,South America,158794
+2012,South America,177699
+2013,Africa,192065
+2011,Europe,8295
+2017,Asia,30626
+2020,South America,133383
+2011,South America,69400
+2023,North America,73683
+2013,North America,60518
+2020,Africa,103787
+2014,South America,62760
+2020,South America,164365
+2011,Europe,54751
+2017,North America,150159
+2014,North America,153588
+2010,South America,102835
+2020,Africa,81204
+2012,South America,136538
+2022,Asia,164803
+2020,North America,153495
+2017,North America,103713
+2014,Europe,34292
+2010,Africa,187351
+2012,Europe,50809
+2016,North America,23951
+2019,Africa,9095
+2012,South America,76375
+2014,South America,137861
+2022,Africa,40351
+2019,Asia,36265
+2019,South America,108813
+2022,Europe,146920
+2015,South America,9983
+2014,South America,137077
+2020,Asia,33904
+2014,South America,81340
+2019,Europe,134330
+2020,Europe,176885
+2022,Europe,146800
+2018,North America,110958
+2011,South America,25987
+2015,South America,99723
+2017,Africa,40262
+2010,Asia,1972
+2020,North America,85269
+2011,South America,4920
+2020,Europe,106623
+2013,North America,123098
+2019,North America,1746
+2012,Europe,67504
+2018,Africa,107487
+2012,South America,98270
+2014,Asia,175973
+2022,Africa,137138
+2018,Asia,68471
+2012,Asia,124366
+2019,South America,72549
+2018,North America,31692
+2017,Europe,187095
+2020,Asia,184104
+2021,Africa,74091
+2022,South America,53116
+2018,South America,104407
+2012,Africa,176279
+2013,Asia,62793
+2022,Asia,167936
+2013,Asia,192186
+2023,Africa,31504
+2016,Asia,146545
+2010,Africa,131524
+2020,South America,170967
+2013,Africa,50449
+2016,Europe,31483
+2021,North America,24254
+2013,North America,43307
+2019,Europe,130015
+2016,Africa,176231
+2013,North America,107306
+2012,Europe,146111
+2012,Asia,137216
+2012,Europe,129890
+2016,North America,79626
+2014,Africa,121362
+2021,Africa,34628
+2016,Africa,171021
+2010,North America,115916
+2014,Asia,161594
+2023,Africa,6994
+2019,South America,11787
+2012,Asia,17359
+2011,Europe,50507
+2022,South America,57385
+2016,Asia,47740
+2011,North America,6349
+2017,South America,145174
+2022,Asia,106826
+2015,Asia,164931
+2016,Asia,130086
+2011,Asia,60454
+2020,Africa,140761
+2016,South America,117987
+2023,Asia,142902
+2016,Europe,104274
+2016,Asia,16707
+2016,Africa,178860
+2021,South America,115409
+2012,South America,164625
+2015,Asia,102031
+2012,Asia,11732
+2012,Europe,122956
+2013,South America,171395
+2012,South America,49781
+2022,South America,40168
+2023,North America,11058
+2019,South America,134853
+2013,South America,132918
+2018,Europe,67688
+2015,Europe,151784
+2014,Africa,138312
+2015,Europe,17139
+2021,South America,23557
+2011,South America,123245
+2021,South America,87713
+2022,Europe,10502
+2022,Asia,28410
+2015,North America,169554
+2018,Africa,25592
+2012,Asia,158559
+2019,North America,176441
+2023,Europe,178355
+2022,Africa,76785
+2022,Africa,84849
+2019,Europe,157748
+2015,Asia,71887
+2016,North America,27524
+2014,South America,19166
+2010,South America,175925
+2018,North America,176034
+2020,South America,44641
+2015,Asia,94595
+2015,Europe,142163
+2015,South America,29825
+2021,Europe,72636
+2011,South America,23639
+2010,South America,88628
+2010,Africa,18944
+2010,South America,152301
+2010,Africa,14346
+2020,North America,82996
+2022,South America,135699
+2023,South America,42935
+2010,South America,10019
+2023,Africa,102653
+2020,South America,139737
+2017,Asia,7508
+2016,North America,150004
+2013,Europe,131146
+2015,Europe,58989
+2014,Africa,115452
+2013,North America,2660
+2014,North America,163463
+2015,Europe,195402
+2022,Africa,162299
+2022,Asia,7741
